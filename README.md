@@ -1,4 +1,4 @@
-# Instagreens-bonn
+# Instagreens-Bonn
 Scripts and files for http://instagreens-bonn.de/
 
 Webpage Preview
