@@ -1,5 +1,8 @@
 # Instagreens-Bonn
-Scripts and files for http://instagreens-bonn.de/
+Instagreens-Bonn is a state-of-the-are social media analysis. We analyzed Bonn's urban green spaces as how they are seen on Instagram. 
+For more detailed information and our results see our [homepage](http://instagreens-bonn.de/).
+
+Here you find our scripts used for data analysis for http://instagreens-bonn.de/.
 
 Webpage Preview
 ![](screenshots/1.jpg?raw=true)
