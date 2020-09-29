@@ -15,3 +15,5 @@ Wordcloud generator by Jason Davies https://www.jasondavies.com/wordcloud/
 Emojis quick search http://getemoji.com/
 ![](screenshots/5.jpg?raw=true)
 Lollipop diagram made with d3 https://github.com/d3/d3 See examples here: https://www.d3-graph-gallery.com/
+
+Any questions? Let me know: [📧 dominik@geo.rocks](dominik@geo.rocks) 
