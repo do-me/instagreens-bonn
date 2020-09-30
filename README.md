@@ -3,6 +3,7 @@ Instagreens-Bonn is a state-of-the-are social media analysis. We analyzed Bonn's
 For more detailed information and our results see our [homepage](http://instagreens-bonn.de/).
 
 Here you find our scripts used for data analysis for http://instagreens-bonn.de/.
+For a data mining and preprocessing tutorial see our blog articles: [social media mining](https://geo.rocks/post/social-media-mining/) and [processing data mined from instagram-scraper with Python and Pandas](https://geo.rocks/post/processing-data-from-instagram-scraper/).
 
 Webpage Preview
 ![](screenshots/1.jpg?raw=true)
