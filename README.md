@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4059890.svg)](https://doi.org/10.5281/zenodo.4059890)
 # Instagreens-Bonn
 Instagreens-Bonn is a state-of-the-are social media analysis. We analyzed Bonn's urban green spaces as how they are seen on Instagram. 
 For more detailed information and our results see our [homepage](http://instagreens-bonn.de/).
