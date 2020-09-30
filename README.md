@@ -1,7 +1,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4059890.svg)](https://doi.org/10.5281/zenodo.4059890)
 # Instagreens-Bonn
 Instagreens-Bonn is a state-of-the-are social media analysis. We analyzed Bonn's urban green spaces as how they are seen on Instagram. 
-For more detailed information and our results see our [homepage](http://instagreens-bonn.de/).
+For more detailed information and our results see our [homepage](http://instagreens-bonn.de/) or read our 84 page paper [Instagreens-Bonn](https://github.com/do-me/instagreens-bonn/raw/master/Instagreens-Bonn.pdf).
 
 Here you find our scripts used for data analysis for http://instagreens-bonn.de/.
 For a data mining and preprocessing tutorial see our blog articles: [social media mining](https://geo.rocks/post/social-media-mining/) and [processing data mined from instagram-scraper with Python and Pandas](https://geo.rocks/post/processing-data-from-instagram-scraper/).
