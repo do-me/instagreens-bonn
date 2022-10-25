@@ -18,4 +18,4 @@ Emojis quick search http://getemoji.com/
 ![](screenshots/5.jpg?raw=true)
 Lollipop diagram made with d3 https://github.com/d3/d3 See examples here: https://www.d3-graph-gallery.com/
 
-Any questions? Let us know: [📧 contact@instagreens-bonn.de](contact@instagreens-bonn.de) or [📧 dominik@geo.rocks](dominik@geo.rocks)
+Any questions? Let us know: [📧 dominik@geo.rocks](dominik@geo.rocks)
